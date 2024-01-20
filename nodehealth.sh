@@ -1,16 +1,5 @@
 #!/bin/bash
 
-##############################
-#
-# Author: Tarun Chand Illapu
-# Date: 01/17/2024
-#
-# This Script outputs the Node Health
-#
-# Version: V1
-#
-##############################
-
 set -x # Debug Mode
 set -e # Exit the script when there is an Error
 set -o pipefail 
